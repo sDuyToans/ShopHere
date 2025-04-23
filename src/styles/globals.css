@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#locationTabs div:first-child{
+    width: 100%;
+}
